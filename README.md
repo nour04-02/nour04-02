@@ -13,9 +13,6 @@
 
 ---
 
-## 𝗔𝗰𝘁𝗶𝘃𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
-
-[![Lowlight Deepfake Detection](https://svg.bookmark.style/api?url=https://github.com/nour04-02/lowlight-deepfake-detection&mode=light&style=horizontal)](https://github.com/nour04-02/lowlight-deepfake-detection)
 
 ---
 
