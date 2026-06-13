@@ -11,16 +11,8 @@
 
 ☕️ Python | 🐍 PyTorch | 🧠 NLP & CV Enthusiast | 📚 Lifelong Learner | 🐳 Docker | ☁️ Azure  
 
----
-## 𝑨𝒄𝒕𝒊𝒗𝒆 𝑷𝒓𝒐𝒋𝒆𝒄𝒕
 
-### AI-Based Underwater Biofouling Inspection
-🎓 Graduation Project 2
 
-An AI-powered computer vision system for underwater biofouling detection and inspection. The project focuses on analyzing underwater images to identify marine growth on submerged structures, helping improve maintenance efficiency and environmental monitoring.
-
-🔗 Repository:
-https://github.com/nour04-02/AI-Based-Underwater-Biofouling-Inspection---Graduation-Project-2
 
 ---
 
